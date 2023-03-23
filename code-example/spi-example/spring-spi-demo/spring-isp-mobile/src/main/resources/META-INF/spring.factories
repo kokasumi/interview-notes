@@ -1,0 +1,2 @@
+com.github.kokasumi.spi.InternetService=com.github.kokasumi.spi.ChinaMobile,\
+  com.github.kokasumi.spi.SichuanChinaMobile
